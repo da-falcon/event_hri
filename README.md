@@ -1,6 +1,6 @@
 # Workshop sobre Interacción Humano-Robot
 
-En este repositorio se encuentra el material del workshop HRI. └[•‿•]┘
+En este repositorio se encuentra el material del workshop HRI. 🤖✨
 
 ![logo](https://raw.githubusercontent.com/da-falcon/event_hri/refs/heads/main/resources/logo.jpeg)
 
